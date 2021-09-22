@@ -15,6 +15,6 @@
 ![image](https://user-images.githubusercontent.com/24539434/134306159-cb80a3f5-7375-417c-a64c-f1ea0c878522.png)
 ### 扫描过程-
 ![image](https://user-images.githubusercontent.com/24539434/134306948-a34d78e0-155d-411c-8bc9-0ad28de25aa6.png)
-### 扫描结果：
+### 扫描结果-
 ![image](https://user-images.githubusercontent.com/24539434/134306598-77d735e4-769b-43a7-85f3-13dfb314bf6e.png)
 
